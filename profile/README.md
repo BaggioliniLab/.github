@@ -1,4 +1,4 @@
-**Welcome to the GitHub page of BaggioliniLab Stem - Cells and Cancer Research**
+**Welcome to the GitHub page of BaggioliniLab - Stem Cells and Cancer Research**
 
 
 # What we study
