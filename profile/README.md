@@ -1,7 +1,7 @@
-**Welcome to the GitHub page of BaggioliniLab Stem Cells and Cancer Research**
+**Welcome to the GitHub page of BaggioliniLab Stem - Cells and Cancer Research**
 
 
-What we study
+# What we study
 The cell-intrinsic and cell-extrinsic regulation of oncogenic competence in melanoma
 Melanoma is a cancer that arises from cells belonging to the melanocytic lineage. Because of its high metastatic potential, melanoma is known to be the most aggressive skin tumor.
 
